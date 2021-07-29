@@ -1,0 +1,13 @@
+.costom-color{
+    background-color: #264653;
+}
+.bike-image-color{
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%)
+}
+.svg-coloer img{
+    color: red;
+}
+.privet-color{
+    color: #E76F51;
+}
